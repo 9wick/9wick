@@ -50,8 +50,6 @@ Infra / OS
 
 <p align="left"> 
 <img src="https://github-readme-stats-9wick.vercel.app/api?username=9wick&count_private=true" />
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/9wick" target="_blank" rel="noopener noreferrer"><img alt="9wickのLAPRASでのスコアは次の通りです: エンジニアリング: 4.36 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 3.79 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.36&b=3.57&i=3.79&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/24/2024, 3:03:46 PM</p>
-<!--END_SECTION:lapras-card-->
+<!--START_SECTION:lapras-card--><p ><a href="https://lapras.com/public/9wick" target="_blank" rel="noopener noreferrer"><img alt="9wickのLAPRASでのスコアは次の通りです: エンジニアリング: 4.36 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 3.79 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.36&b=3.57&i=3.79&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 7/24/2024, 3:03:46 PM</p><!--END_SECTION:lapras-card-->
 </p>
