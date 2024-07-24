@@ -1,10 +1,10 @@
 [![9wick's GitHub Banner](./assets/top_img.jpg)]()
 
-# Hi👋, I'm 9wick.
+## 🏋️‍♀️ About 9wick.
 
-- 🧑🏻‍💻 Full Stack Developer
+- 🧑🏻‍💻 Full Stack Engineer
 - 🏠 Living in Tokyo, Japan
-- 
+- ⛰️ Love to mountain and trail running
 
 <!--
 **9wick/9wick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,18 +47,12 @@ Infra / OS
 ![](https://skillicons.dev/icons?theme=light&perline=12&i=aws,cloudflare,firebase,heroku,raspberrypi,docker,ansible,terraform,nginx,linux,ubuntu)
 
 ## 📈 Status
-<div class="column-left" style="float: left; width: 47.5%; max-width: 450px;text-align: left; padding-right: 2.5%;">
+
+<p align="left"> 
 
 ![](https://github-readme-stats-9wick.vercel.app/api?username=9wick&count_private=true)
 
-
-</div>
-<div class="column-right" style="margin-top:15px; float: left; width: 47.5%; max-width: 410px; text-align: left;">
-
-
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/9wick" target="_blank" rel="noopener noreferrer"><img alt="9wickのLAPRASでのスコアは次の通りです: エンジニアリング: 4.36 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 3.79 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.36&b=3.57&i=3.79&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/24/2024, 2:59:24 PM</p>
-<!--END_SECTION:lapras-card-->
 
-</div>
+<!--END_SECTION:lapras-card-->
+</p>
