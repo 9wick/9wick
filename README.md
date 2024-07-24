@@ -36,40 +36,24 @@ Here are some ideas to get you started:
 ## 🌴 Skill
 Language / Framework
 
-![](https://skillicons.dev/icons?theme=light&perline=7&i=ts,js,nodejs,nestjs,react,nextjs,html,css,php,laravel,flutter,c,cpp,arduino)
+![](https://skillicons.dev/icons?theme=light&perline=12&i=ts,js,nodejs,nestjs,react,nextjs,html,css,php,laravel,flutter,c,cpp,arduino)
 
 Storage
 
-![](https://skillicons.dev/icons?theme=light&perline=8&i=redis,postgres,mysql,cassandra)
+![](https://skillicons.dev/icons?theme=light&perline=12&i=redis,postgres,mysql,cassandra)
 
 Infra / OS
 
-![](https://skillicons.dev/icons?theme=light&perline=6&i=aws,cloudflare,firebase,heroku,raspberrypi,docker,ansible,terraform,nginx,linux,ubuntu)
+![](https://skillicons.dev/icons?theme=light&perline=12&i=aws,cloudflare,firebase,heroku,raspberrypi,docker,ansible,terraform,nginx,linux,ubuntu)
 
 ## 📈 Status
-<style>
-.column-left{
-  float: left;
-  width: 47.5%;
-  max-width: 450px;
-
-  text-align: left;
-  padding-right: 2.5%;
-}
-.column-right{
-  float: left;
-  width: 47.5%;
-  max-width: 410px;
-  text-align: left;
-}
-</style>
-<div class="column-left">
+<div class="column-left" style="float: left; width: 47.5%; max-width: 450px;text-align: left; padding-right: 2.5%;">
 
 ![](https://github-readme-stats-9wick.vercel.app/api?username=9wick&count_private=true)
 
 
 </div>
-<div class="column-right" style="margin-top:15px">
+<div class="column-right" style="margin-top:15px; float: left; width: 47.5%; max-width: 410px; text-align: left;">
 
 
 <!--START_SECTION:lapras-card-->
